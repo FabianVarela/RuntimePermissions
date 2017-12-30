@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Runtime Permissions</string>
+    <string name="check_message">Revisar Permisos</string>
+    <string name="request_message">Solicitar Permisos</string>
+    <string name="settings_message">Configuraciones</string>
+    <string name="permissions_message">El permiso del GPS nos permite acceder a los datos de ubicación. Por favor, permita en la Configuración de la Aplicación para una funcionalidad adicional.</string>
+    <string name="access_message">Permiso otorgado, ahora puedes acceder a los datos de ubicación.</string>
+    <string name="denied_message">Permiso denegado, no puede acceder a los datos de ubicación.</string>
+    <string name="granted_permission_message">Permiso ya concedido.</string>
+    <string name="request_permission_message">Por favor solicite permiso.</string>
+</resources>

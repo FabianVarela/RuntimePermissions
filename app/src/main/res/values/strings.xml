@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">RuntimePermissions</string>
+    <string name="app_name">Runtime Permissions</string>
+    <string name="check_message">Check Permission</string>
+    <string name="request_message">Request Permission</string>
+    <string name="settings_message">Settings</string>
+    <string name="permissions_message">GPS permission allows us to access location data. Please allow in App Settings for additional functionality.</string>
+    <string name="access_message">Permission Granted, Now you can access location data.</string>
+    <string name="denied_message">Permission Denied, You cannot access location data.</string>
+    <string name="granted_permission_message">Permission already granted.</string>
+    <string name="request_permission_message">Please request permission.</string>
 </resources>
